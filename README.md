@@ -19,7 +19,7 @@
 -사진
 <img src="https://user-images.githubusercontent.com/61938029/202361159-7cdc551c-c0f0-4148-b50e-38cf78b0cd63.jpg" width="600" height="400">
 
--구현 영상 ==> 일정 시간 거북이의 광합성을 위한 백열등 점등을 구현을 위한 짧은 시간 간격으로 제작 후 시연
+-구현 영상 ==> 일정 시간 거북이의 광합성을 위한 백열등 점등을 짧은 시간 간격으로 제작 후 시연
 
 https://user-images.githubusercontent.com/61938029/202982627-11ee549f-e733-4ee1-81c0-a2c1dfdde9f5.mp4
 
