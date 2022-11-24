@@ -6,7 +6,7 @@
 * 기간 : 2020.09.01. ~ 2020.11.30.
 <img src="https://user-images.githubusercontent.com/61938029/202362516-8206c326-4708-408b-bd2b-418fc63ba619.jpg" width="300" height="300">
 
-## 스마트 거북이 사육장
+## 1. 스마트 거북이 사육장
 ### MIFF 메이킹 동아리 결과물
 - 기업에서의 production launch까지의 과정 중 demand_research-plannig-prototype product making까지의 과정 수행
 
