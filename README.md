@@ -11,7 +11,7 @@
 - 기업에서의 production launch까지의 과정 중 demand_research-plannig-prototype product making까지의 과정 수행
 
 #### 결과
-- 실제 prototype making까지 이루어지면서 기업에서의 상품 출시 과정을 이해하고 developer의 mission을 체험해보는 점에 있어서 경험으로서 가치있는 활동이었음.
+- 실제 prototype making까지 이루어지면서 기업에서의 상품 출시 과정을 이해하고 developer의 mission과 더불어 수요 조사 및 기획을 체험해보는 점에 있어서 경험으로서 가치있는 활동이었음.
 - **But**, demand_research과 planning까지의 시간 지연과 prototype 제작을 위한 기술적 지식 부족으로 예상치보다 훨씬 function과 performance가 떨어지는 prototype의 제작과 covid-19으로 인한 활동 중단.
 - 기업에서의 상품 생산까지의 일련 과정을 이해하고 prototype의 의미를 이해하고 실제 제작해보는 경험이 가장 큰 benefit이나, 활동 중단으로 인한 마무리를 못한 점은 분명 아쉬운 점이라는 것이 결론.
 
