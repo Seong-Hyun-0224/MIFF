@@ -29,3 +29,10 @@ https://user-images.githubusercontent.com/61938029/202982627-11ee549f-e733-4ee1-
 ### 헬퍼 로보틱스 프로젝트
 - MIFF 동아리를 주관하는 헬퍼 로보틱스의 수행 프로젝트로, 식당에서의 각 테이블별 자동 서빙 및 반납을 구동 목표로 하는 시스템.
 - MIFF 동아리 인원 중 일부 인원이 보조역할로 기초 prototype 제작에 관해 기초 모델링, 전자 회로도 납땜 및 알고리즘 구상 등의 역할 수행.
+- 이 또한 covid-19의 영향으로 MIFF의 활동 중단과 함께 보조 인원들은 활동 중단하였음.
+
+####활동 결과
+- 실제 스타트업 기업에서 수행하는 프로젝트 과정을 지켜보고 직접 체험해보는 경험으로서의 의미 있음.
+- 중단된 만큼 결과를 내지 못했으며, MIFF 활동을 우선시 하였기에 많은 자료가 남아있지 않음.
+<img src="https://user-images.githubusercontent.com/61938029/203702559-4128b77a-3161-4b83-b1c9-119b2c5a4be2.jpg" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/61938029/203702691-f4bb8a9a-0f83-4e31-80d7-91231e03158e.jpg" width="600" height="400">
