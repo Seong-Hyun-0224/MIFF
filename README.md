@@ -2,7 +2,7 @@
 **MIFF(Make It For Fun)** - Making study Club in HANGYANG UNIV.SEOUL
 * 대학생 메이킹 연합동아리
 * 주관 : 헬퍼 로보틱스
-* 장소 : 한양대학교 HIT관 COMMAX STARTUP TOWN
+* 장소 : 한양대학교 서울캠퍼스 HIT관 COMMAX STARTUP TOWN
 * 기간 : 2020.09.01. ~ 2020.11.30.
 <img src="https://user-images.githubusercontent.com/61938029/202362516-8206c326-4708-408b-bd2b-418fc63ba619.jpg" width="300" height="300">
 
