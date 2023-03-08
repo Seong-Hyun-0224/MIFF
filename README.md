@@ -9,6 +9,7 @@
 ## 1. 스마트 거북이 사육장
 ### MIFF 메이킹 동아리 결과물
 - 기업에서의 production launch까지의 과정 중 demand_research-plannig-prototype product making까지의 과정 수행
+- Project Leader 겸 소프트웨어 개발(알고리즘에 따른 작동 구현)을 맡아 embedded system engineer 역할 수행.
 
 #### 결과
 - 실제 prototype making까지 이루어지면서 기업에서의 상품 출시 과정을 이해하고 developer의 mission과 더불어 수요 조사 및 기획을 체험해보는 점에 있어서 경험으로서 가치있는 활동이었음.
